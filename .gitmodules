@@ -1,0 +1,3 @@
+[submodule "external-openapi"]
+	path = external-openapi
+	url = https://github.com/km1110/external-openapi.git
