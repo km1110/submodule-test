@@ -1,2 +1,3 @@
 # submodule-test
-submoduleの勉強用!
+
+submodule の勉強用
